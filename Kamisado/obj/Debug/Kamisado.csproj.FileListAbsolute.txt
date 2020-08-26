@@ -1,0 +1,96 @@
+C:\Users\Stumpfel Máté\Dropbox\Pszeúdókódok_C#-ban\Kamisado\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\Stumpfel Máté\Dropbox\Pszeúdókódok_C#-ban\Kamisado\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\Stumpfel Máté\Dropbox\Pszeúdókódok_C#-ban\Kamisado\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\Stumpfel Máté\Dropbox\Pszeúdókódok_C#-ban\Kamisado\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\Stumpfel Máté\Dropbox\Pszeúdókódok_C#-ban\Kamisado\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\Stumpfel Máté\Dropbox\Pszeúdókódok_C#-ban\Kamisado\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\Stumpfel Máté\Desktop\Kamisado1941\Kamisado\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\Stumpfel Máté\Desktop\Kamisado1941\Kamisado\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\Stumpfel Máté\Desktop\Kamisado1941\Kamisado\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\Stumpfel Máté\Desktop\Kamisado1941\Kamisado\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\Stumpfel Máté\Desktop\Kamisado1941\Kamisado\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\Stumpfel Máté\Desktop\Kamisado1941\Kamisado\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\Stumpfel Máté\Desktop\Kamisado2156\Kamisado\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\Stumpfel Máté\Desktop\Kamisado2156\Kamisado\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\Stumpfel Máté\Desktop\Kamisado2156\Kamisado\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\Stumpfel Máté\Desktop\Kamisado2156\Kamisado\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\Stumpfel Máté\Desktop\Kamisado2156\Kamisado\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\Stumpfel Máté\Desktop\Kamisado2156\Kamisado\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Desktop\Kamisado\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\Kamisado\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\Kamisado\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\Kamisado\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Desktop\Kamisado másolata\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Desktop\Kamisado másolata\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\Kamisado másolata\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\Kamisado másolata\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\Kamisado másolata\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\Kamisado másolata\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Desktop\ITT TARTOK\Kamisado másolata másolata\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Desktop\ITT TARTOK\Kamisado másolata másolata\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\ITT TARTOK\Kamisado másolata másolata\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\ITT TARTOK\Kamisado másolata másolata\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\ITT TARTOK\Kamisado másolata másolata\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\ITT TARTOK\Kamisado másolata másolata\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Desktop\ITT TARTOK\EZ IDÁIG A JÓNAK A MÁSOLATA MÁSOLATA\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Desktop\ITT TARTOK\EZ IDÁIG A JÓNAK A MÁSOLATA MÁSOLATA\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\ITT TARTOK\EZ IDÁIG A JÓNAK A MÁSOLATA MÁSOLATA\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\ITT TARTOK\EZ IDÁIG A JÓNAK A MÁSOLATA MÁSOLATA\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\ITT TARTOK\EZ IDÁIG A JÓNAK A MÁSOLATA MÁSOLATA\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\ITT TARTOK\EZ IDÁIG A JÓNAK A MÁSOLATA MÁSOLATA\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Desktop\ITT TARTOK\EZ IDÁIG A JÓNAK A MÁSOLATA MÁSOLATA másolata\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Desktop\ITT TARTOK\EZ IDÁIG A JÓNAK A MÁSOLATA MÁSOLATA másolata\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\ITT TARTOK\EZ IDÁIG A JÓNAK A MÁSOLATA MÁSOLATA másolata\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\ITT TARTOK\EZ IDÁIG A JÓNAK A MÁSOLATA MÁSOLATA másolata\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\ITT TARTOK\EZ IDÁIG A JÓNAK A MÁSOLATA MÁSOLATA másolata\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\ITT TARTOK\EZ IDÁIG A JÓNAK A MÁSOLATA MÁSOLATA másolata\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata másolata\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata másolata\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata másolata\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata másolata\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata másolata\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata másolata\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata másolata másolata (2)\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata másolata másolata (2)\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata másolata másolata (2)\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata másolata másolata (2)\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata másolata másolata (2)\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\ITT TARTOK\a jó másolata másolata másolata (2)\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Desktop\a jó másolata másolata másolata (2)\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Desktop\a jó másolata másolata másolata (2)\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\a jó másolata másolata másolata (2)\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\a jó másolata másolata másolata (2)\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\a jó másolata másolata másolata (2)\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\a jó másolata másolata másolata (2)\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Desktop\kamisado(lépések helyessége miss)\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Desktop\kamisado(lépések helyessége miss)\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\kamisado(lépések helyessége miss)\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\kamisado(lépések helyessége miss)\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\kamisado(lépések helyessége miss)\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\kamisado(lépések helyessége miss)\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Desktop\átlépés engedélyezett\kamisado(lépések helyessége miss) másolata\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Desktop\átlépés engedélyezett\kamisado(lépések helyessége miss) másolata\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\átlépés engedélyezett\kamisado(lépések helyessége miss) másolata\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\átlépés engedélyezett\kamisado(lépések helyessége miss) másolata\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\átlépés engedélyezett\kamisado(lépések helyessége miss) másolata\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\átlépés engedélyezett\kamisado(lépések helyessége miss) másolata\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Desktop\Krujz Gergely ( P71JVI)-KAMISADO\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Desktop\Krujz Gergely ( P71JVI)-KAMISADO\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\Krujz Gergely ( P71JVI)-KAMISADO\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\Krujz Gergely ( P71JVI)-KAMISADO\Kamisado\bin\Debug\Kamisado.exe
+C:\Users\komolkom1\Desktop\Krujz Gergely ( P71JVI)-KAMISADO\Kamisado\bin\Debug\Kamisado.pdb
+C:\Users\komolkom1\Desktop\Krujz Gergely ( P71JVI)-KAMISADO\Kamisado\obj\Debug\Kamisado.csprojResolveAssemblyReference.cache
+C:\Users\komolkom1\Dropbox\koli dropbox\Krujz Gergely ( P71JVI)-KAMISADO\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\komolkom1\Dropbox\koli dropbox\Krujz Gergely ( P71JVI)-KAMISADO\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\komolkom1\Dropbox\koli dropbox\Krujz Gergely ( P71JVI)-KAMISADO\Kamisado\obj\Debug\Kamisado.pdb
+C:\Users\Krujz\Desktop\Krujz Gergely ( P71JVI)-KAMISADO\Kamisado\bin\Debug\Kamisado.exe.config
+C:\Users\Krujz\Desktop\Krujz Gergely ( P71JVI)-KAMISADO\Kamisado\obj\Debug\Kamisado.exe
+C:\Users\Krujz\Desktop\Krujz Gergely ( P71JVI)-KAMISADO\Kamisado\obj\Debug\Kamisado.pdb

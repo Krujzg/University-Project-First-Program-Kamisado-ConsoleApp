@@ -1,0 +1,8 @@
+N K L R S P Z B
+P N R Z K S B L
+Z R N P L B S K
+R L K N B Z P S
+S P Z B N K L R
+K S B L P N R Z
+L B S K Z R N P
+B Z P S R L K N
